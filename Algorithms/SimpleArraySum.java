@@ -1,3 +1,5 @@
+// The file name is not necessarily the same as the class name written in the code
+// https://www.hackerrank.com/challenges/simple-array-sum
 import java.io.*;
 import java.math.*;
 import java.security.*;
